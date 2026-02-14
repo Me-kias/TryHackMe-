@@ -1,1 +1,2 @@
-This repository is where I keep track of my TryHackMe learning journey. I use it to save notes, commands, and key things I learn while doing rooms and paths. The goal is to learn cybersecurity step by step and keep everything organized in one place so I can review it later and show my progress.
+# TryHackMe-
+This repository is where I keep track of my TryHackMe learning journey. I use it to save notes, commands, and key things I learn while doing rooms and paths.  The goal is to learn cybersecurity step by step and keep everything organized in one place so I can review it later and show my progress.
