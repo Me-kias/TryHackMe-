@@ -1,4 +1,4 @@
-# Linux Shells – Simple Notes (TryHackMe Room)
+# Linux Shells 
 
 ---
 
