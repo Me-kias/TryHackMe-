@@ -1,6 +1,4 @@
-# 🧠 Networking Essentials — Human Notes (Practical Understanding)
-
-
+# 🧠 Networking Essentials 
 
 ---
 
